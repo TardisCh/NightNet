@@ -1,12 +1,10 @@
 # NightNet
 
-`NightNet` is a deep cross-sensor reconstruction network designed to generate VIIRS-like nighttime light data from historical DMSP observations with Landsat and impervious surface auxiliary inputs.
-
-This repository provides the official code for the NightNet model presented in the manuscript below.
-
-NightNet was developed for the reconstruction of long-term monthly nighttime light products described in the manuscript:
+This repository provides the official code for the NightNet model presented in the manuscript below:
 
 *A Temporally Consistent Global 500 m-Resolution Monthly VIIRS-Like Nighttime Light Dataset (1992--2024)*.
+
+`NightNet` is a deep cross-sensor reconstruction network designed to generate VIIRS-like nighttime light data from historical DMSP observations with Landsat and impervious surface auxiliary inputs.
 
 ## Included files
 
