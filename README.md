@@ -66,11 +66,11 @@ If you use NightNet in your research, please cite it as follows:
 
 ```bibtex
 @article{cheng2026mvnl,
-  author = {Cheng, H. and Geng, M. and Li, X. and Li, S. and Zhao, M. and Lin, C. and Wang, J. and Gong, P. and Zhou, Y.},
+  author = {Hongquan Cheng, Mengqing Geng, Xuecao Li, Shijie Li, Min Zhao, Chen Lin, Jie Wang, Peng Gong, and Yuyu Zhou},
   title = {A Temporally Consistent Global 500 m-Resolution Monthly VIIRS-Like Nighttime Light Dataset (1992--2024)},
-  journal = {Earth System Science Data Discussions},
+  journal = {Earth System Science Data},
   year = {2026},
-  doi = {10.5194/essd-2026-129},
-  note = {Preprint, in review}
+  pages = {3449-3479},
+  doi = {https://doi.org/10.5194/essd-18-3449-2026}
 }
 ```
