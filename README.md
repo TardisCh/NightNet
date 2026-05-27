@@ -62,7 +62,7 @@ This module relies mainly on:
 
 ## Citation
 
-If you use NightNet in your research, please cite it as follows:
+If NightNet is used in your research, or if this dataset, code, or related materials contribute to your work, please cite our paper as follows:
 
 ```bibtex
 @article{cheng2026mvnl,
